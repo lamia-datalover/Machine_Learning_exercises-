@@ -12,5 +12,5 @@ Attaining a high score with the trained model signifies its successful comprehen
 Ultimately, I presented the feature importance in a DataFrame to illustrate which columns significantly influenced the model to achieve the high score, offering insights into their impact.
 ## Acknowledgements
 
- - [This exercice comes from my training in Jedha Bootcamp](https://www.jedha.co/formations/formation-data-scientist)
+ - [This exercise comes from my training in Jedha Bootcamp](https://www.jedha.co/formations/formation-data-scientist)
  
