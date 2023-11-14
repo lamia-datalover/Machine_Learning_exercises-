@@ -14,5 +14,5 @@ To begin with, I needed to familiarize myself with the dataset: understanding it
 Achieving a high score with the trained model indicates that it successfully grasped the essential characteristics of the dataset and could generalize its findings to unseen data. Personally, I learned that immediately removing the useless columns isn't always the best approach. It's crucial to ask ourselves: "Is there any valuable information to extract from them before deciding to drop them?"
 
 ## Acknowledgements😁
- - [This exercice comes from my training in Jedha Bootcamp](https://www.jedha.co/formations/formation-data-scientist)
+ - [This exercise comes from my training in Jedha Bootcamp](https://www.jedha.co/formations/formation-data-scientist)
  
