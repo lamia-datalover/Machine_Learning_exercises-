@@ -1,6 +1,6 @@
 
 ## Situation
-he goal of this exercise is to apply the concepts covered in theoretical classes, such as bootstrapping, hold-out score, resubstitution score, cross-validation, hyperparameter optimization, and the three-way hold-out method . 
+The goal of this exercise is to apply the concepts covered in theoretical classes, such as bootstrapping, hold-out score, resubstitution score, cross-validation, hyperparameter optimization, and the three-way hold-out method . 
 ## Task 
 Evaluating the model using different techniques datailed in action section.
 ## Action
